@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Queila1-Kehunan
+- 👋 Hi, I’m Queila Kehunan
 - 👀 I’m interested in learn more about programming.
-- 🌱 I’m currently learning programming..
+- 🌱 I’m currently learning Front-End
 - 💞️ I’m looking to collaborate on my projects..
 - 📫 You can send me a e-mail: queilaliborio@gmail.com...
 
